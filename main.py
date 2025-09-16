@@ -4,7 +4,7 @@ Financial News Sentiment Analysis and RAG Pipeline
 This module provides a comprehensive solution for analyzing financial news sentiment
 and creating a retrieval-augmented generation (RAG) pipeline for financial Q&A.
 
-Author: AI Assistant
+Author: Avishkar Borkar
 Date: 2024
 """
 
